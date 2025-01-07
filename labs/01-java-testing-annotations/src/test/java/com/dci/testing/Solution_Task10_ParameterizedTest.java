@@ -1,4 +1,4 @@
-package com.dci.testing;
+package java.com.dci.testing;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
